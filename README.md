@@ -3,7 +3,7 @@ This is the Arduino program to make a LED chaser.
 Created by Techno-lo-JOY
 Visit Techno - lo - JOY YouTube channel for tutorial.
 
-Material Required:- Arduiono, Breadboard, 12LEDs, male to male Jumper Wires
+Material Required:- Arduino, Breadboard, 12LEDs, male to male Jumper Wires
 
 Get the code from "main code".
 
